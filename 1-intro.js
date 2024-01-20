@@ -6,4 +6,4 @@ if (amount < 14) {
   console.log("large number");
 }
 
-console.log("hey it's my first node app!!!");
+console.log("heyy it's my first node app!!!");
