@@ -16,8 +16,6 @@ const start = async () => {
 
 start();
 
-
-
 // readFile("../content/first.txt", "utf-8", (err, data) => {
 //   if (err) {
 //     return;
@@ -41,4 +39,3 @@ start();
 // getText("../content/first.txt")
 //     .then((result) => console.log(result))
 //     .catch((err) => console.log(err));
-
