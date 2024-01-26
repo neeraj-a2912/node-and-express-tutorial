@@ -41,7 +41,7 @@ const server = http.createServer((req, res) => {
     res.write(homeLogic);
     res.end();
   }
-  // 404
+  // 404s
   else {
     res.writeHead(404, { "content-type": "text/html" });
     res.write("<h1>page not found</h1>");
